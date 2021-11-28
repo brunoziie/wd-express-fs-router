@@ -1,0 +1,14 @@
+{
+  "name": "wd-express-fs-router",
+  "version": "1.0.0",
+  "description": "A filesystem-based router made for weedocs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brunoziie",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
