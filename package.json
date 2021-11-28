@@ -1,6 +1,6 @@
 {
   "name": "wd-express-fs-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A filesystem-based router made for weedocs project",
   "main": "index.js",
   "scripts": {

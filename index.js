@@ -101,7 +101,7 @@ const requireFile = (() => {
       files[path] = require(path);
     }
 
-    return files[path];
+    return files[path].default || files[path];
   }
 })()
 
